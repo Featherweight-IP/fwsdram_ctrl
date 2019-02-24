@@ -1,0 +1,10 @@
+#****************************************************************************
+#* packages.mf for fwsdram_ctrl
+#****************************************************************************
+
+simscripts@ssh://github.com:mballance/simscripts.git
+googletest-hdl@ssh://github.com:mballance/googletest-hdl.git
+axi4_bfms@ssh://github.com:sv-bfms/axi4_bfms.git
+sdram_bfms@ssh://github.com:sv-bfms/sdram_bfms.git
+bfm-tools@ssh://github.com:sv-bfms/bfm-tools.git
+
